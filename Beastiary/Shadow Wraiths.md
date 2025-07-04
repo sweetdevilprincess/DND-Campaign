@@ -1,0 +1,2 @@
+Sinister entities that lurk within the mist, Shadow Wraiths feed on fear and negative emotions. They manifest as shadowy figures with glowing red eyes and possess the ability to drain the life force of unsuspecting travelers.
+#no_show 

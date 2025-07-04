@@ -1,0 +1,2 @@
+The Shade Weaver is an ancient and powerful entity that dwells deep within the heart of the Mistwood. This malevolent being possesses the ability to manipulate shadows, creating an aura of darkness that engulfs its surroundings. The Shade Weaver feeds on the life force of those who enter its domain, using tendrils of shadow to drain vitality and render victims weakened and vulnerable.
+#no_show 

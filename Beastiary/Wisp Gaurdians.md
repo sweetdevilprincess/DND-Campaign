@@ -1,0 +1,2 @@
+Wisps are ethereal beings of light that guide and protect those who show respect for the forest. These friendly wisps can lead characters through the dense mist, illuminate hidden paths, and warn them of potential dangers. They may even possess limited abilities to communicate with characters through flickering lights or gentle whispers.
+#no_show 

@@ -1,0 +1,2 @@
+These large, majestic creatures resemble a mix between a lion and a unicorn. They have golden fur and a spiraling, radiant horn on their heads. Solaric Chargers possess the ability to harness the sun's energy, allowing them to emit beams of intense light and heal themselves or their allies.
+#no_show 

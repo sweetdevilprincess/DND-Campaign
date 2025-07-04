@@ -1,0 +1,2 @@
+These spectral beings haunt the Mistwood, their ghostly forms shifting in and out of visibility. Ethereal Stalkers feed on the life essence of living beings, draining their vitality and leaving them weakened and vulnerable.
+#no_show 

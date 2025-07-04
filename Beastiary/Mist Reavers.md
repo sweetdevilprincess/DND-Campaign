@@ -1,0 +1,2 @@
+These twisted and hulking humanoids prowl the Mistwood, clad in tattered cloaks and armed with brutal weapons. Mist Reavers revel in chaos and destruction, ambushing unsuspecting travelers and leaving no survivors.
+#no_show 

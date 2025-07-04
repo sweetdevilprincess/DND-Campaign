@@ -1,0 +1,2 @@
+Mossfiends are animated plant creatures corrupted by dark energies. With tendrils of razor-sharp vines and poisonous spores, they ambush intruders in the Mistwood, seeking to entangle and suffocate their prey.
+#no_show 

@@ -1,0 +1,2 @@
+These sorceresses have embraced the dark magic that permeates the Mistwood. Nightshade Witches wield spells of illusion, curses, and necromancy, using their powers to sow discord and trap unwary adventurers in their webs of deception.
+#no_show 

@@ -1,0 +1,2 @@
+Moving through the misty depths of the Mistwood, characters might encounter enigmatic shadows that flicker and shimmer. These shadows possess a curious sentience and the ability to communicate through whispers that only those with pure intentions can hear. The Whispering Shadows can provide cryptic clues, reveal hidden paths, or warn characters of impending dangers.
+#no_show 

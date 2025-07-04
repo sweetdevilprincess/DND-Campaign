@@ -1,0 +1,2 @@
+These small amphibians thrive in the Sunlit Plains' warm environment. Their bodies are adorned with patterns resembling flickering flames, and they can emit bursts of fiery energy when threatened or during mating displays.
+#no_show 

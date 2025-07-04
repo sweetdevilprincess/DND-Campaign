@@ -1,0 +1,2 @@
+As characters delve deeper into the Mistwood, they may stumble upon a hidden grove protected by powerful guardians. These colossal tree-like creatures possess ancient knowledge and are entrusted with preserving the balance of nature. The Grove Guardians can offer characters insights into the workings of the forest, share forgotten legends, or gift them with natural blessings.
+#no_show 

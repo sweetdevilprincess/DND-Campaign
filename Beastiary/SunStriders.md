@@ -1,0 +1,2 @@
+These tall and slender creatures have iridescent skin that seems to shimmer and gleam in the sunlight. They move with elegance and are known for their incredible agility and speed, making them excellent hunters in the open expanse of the plains.
+#no_show 

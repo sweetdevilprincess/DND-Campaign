@@ -1,0 +1,2 @@
+Deceptive and alluring, Will-o'-Wisps lure unsuspecting travelers off the path and into danger. These floating orbs of eerie light can lead characters astray, into treacherous terrain or the clutches of other malevolent creatures. 
+#no_show 

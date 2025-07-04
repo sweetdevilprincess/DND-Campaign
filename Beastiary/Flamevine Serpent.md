@@ -1,0 +1,2 @@
+These serpents have sleek bodies covered in vibrant, fiery vines. As they slither through the Sunlit Plains, they leave a trail of ignited grass behind them. Their venomous bites are imbued with the power of fire, causing burning sensations and leaving a residual flame effect.
+#no_show 

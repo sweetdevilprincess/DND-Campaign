@@ -1,0 +1,2 @@
+Emanating from the heart of the Mistwood, forest spirits are gentle and benevolent entities. These spirits take various forms, such as glowing orbs, flowing streams of mist, or animal-like creatures made of foliage. Forest spirits can offer characters visions, advice, or even temporary boons, such as enhanced perception or the ability to communicate with animals.
+#no_show 

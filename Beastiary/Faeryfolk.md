@@ -1,0 +1,2 @@
+Small, mischievous beings known as faeries inhabit the Mistwood. While they may play pranks on unwary travelers, they can also be helpful allies. Characters may encounter a group of faeries who possess knowledge of hidden pathways or have insights into the magical properties of the forest. By proving their good intentions and demonstrating respect for nature, characters can earn their assistance.
+#no_show 

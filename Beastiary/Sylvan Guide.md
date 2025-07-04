@@ -1,0 +1,2 @@
+Characters might stumble upon a reclusive sylvan, a humanoid creature with traits of both elf and fey. These ancient beings possess an intimate understanding of the Mistwood and its secrets. The Sylvan Guide can offer characters assistance in navigating the forest, unraveling ancient symbols, or forging a deeper connection to the mystical energies of Eternara.
+#no_show 

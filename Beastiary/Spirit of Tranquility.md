@@ -1,0 +1,2 @@
+Deep within a secluded grove, characters may encounter a serene and tranquil spirit. This ethereal entity radiates a calming aura and can grant characters temporary respite from the hardships of their journey. The Spirit of Tranquility can provide mental clarity, restore emotional balance, and offer guidance on the challenges ahead.
+#no_show 

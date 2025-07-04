@@ -1,0 +1,2 @@
+Noble and wise, centaurs serve as protectors of the Mistwood. Characters may come across a group of centaurs patrolling the forest, ensuring its safety from malicious forces. These centaur guardians possess exceptional archery skills and extensive knowledge of the forest's lore. By proving their good intentions, characters can gain their trust and receive valuable guidance.
+#no_show 

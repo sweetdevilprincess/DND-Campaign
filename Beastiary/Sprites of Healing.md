@@ -1,0 +1,2 @@
+Sprites are small elemental beings that specialize in healing and rejuvenation. In the Mistwood, characters may encounter a group of sprites with the ability to heal wounds and cure ailments. These sprites could provide assistance to characters in exchange for completing a task or quest related to protecting the forest or restoring balance.
+#no_show 

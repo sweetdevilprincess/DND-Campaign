@@ -1,0 +1,2 @@
+Once guardians of the forest, these ancient treants have been consumed by malevolent forces. Cursed Treants wield powerful nature-based magic to unleash devastating spells and summon corrupted creatures to aid them in their dark purpose.
+#no_show 

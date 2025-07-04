@@ -1,0 +1,2 @@
+Deep within the heart of the Mistwood, characters may encounter a powerful forest elemental—an embodiment of the raw forces of nature. This benevolent elemental can provide characters with the ability to commune with the forest itself, granting them temporary control over natural elements such as wind, plants, or animals. The Forest Elemental seeks harmony and balance and can aid characters in their quest to restore order to the land.
+#no_show 

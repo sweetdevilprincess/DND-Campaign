@@ -1,0 +1,2 @@
+Among the mist and ancient trees, characters may chance upon a group of mystical beings known as Harmony Singers. These ethereal creatures use their melodious voices to weave enchantments and perform healing rituals. By participating in their harmonious songs and dances, characters can tap into the magic of the forest, gaining temporary boosts to their abilities.
+#no_show 

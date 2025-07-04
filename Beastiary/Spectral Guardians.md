@@ -1,0 +1,2 @@
+Manifestations of the Mistwood's ancient protectors gone awry, Spectral Guardians attack intruders without mercy. These incorporeal beings relentlessly defend the forest, draining the life force of anyone they perceive as a threat.
+#no_show 
