@@ -1,0 +1,1 @@
+Shirks the duties of nobility to be with licentious folk and drinks the night away. Would often join mother and father to berate and belittle [[Valith Egala]] publicly, then would love and cherish her behind closed doors. Very confidant, too confidant 
