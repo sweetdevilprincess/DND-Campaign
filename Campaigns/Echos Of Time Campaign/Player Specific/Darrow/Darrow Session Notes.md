@@ -1,0 +1,1 @@
+Buys an obsidian dagger for 150
