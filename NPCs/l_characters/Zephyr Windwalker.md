@@ -1,0 +1,1 @@
+ - An air genasi with a voice that seems to carry on the wind. Owner of the [[Aurora's Reach#Whispering Breeze]]. He has some sort of ancestral ties to [[Etherium]].

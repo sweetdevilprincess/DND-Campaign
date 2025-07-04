@@ -1,0 +1,1 @@
+A calm and collected Aasimar with eyes that reflect the night sky. She had her wings removed. Owner of [[Aurora's Reach#Luminal Hearth Inn & Glowing Ember Tavern]]

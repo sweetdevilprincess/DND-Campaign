@@ -1,0 +1,1 @@
+Racist against teiflings. Sees strength as a very important trait. Holds those who are strong in higher regard. 
