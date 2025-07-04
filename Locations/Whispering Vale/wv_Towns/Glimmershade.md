@@ -60,8 +60,6 @@ On the outskirts of town lies a graveyard.
 ## Whispersong Bridge
 Spanning a sparkling brook that winds through the forest. Legend has it that the bridge carries the whispers of the forest.
 
-## Luminescent Hollow
-A hidden gem between [[Glimmershade]] and [[Misthaven]] known for its bioluminescent wonders. Fungi, plants, and creatures emit an otherworldly glow, transforming the hollow into a breathtaking spectacle.
 
 
 # Trade Routes 
