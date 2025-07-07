@@ -1,0 +1,2 @@
+Met with the group while Valentine was dealing with the wisps.
+Carried Valentine to the town. Bought 2 bottles of [[Drinks#Bewitched Brew]] (5 servings all together). Paid for a room to share with Naula, the inn keep gave them a side room that they will occasionally use. 

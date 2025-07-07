@@ -1,0 +1,1 @@
+A journal that [[Thalia Fireforge]] gave to [[Darrow]. It is her personal journal about the [[Whispering Vale]].

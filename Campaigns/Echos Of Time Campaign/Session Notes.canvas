@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"421dcafdfd4982e0","type":"group","x":-1840,"y":-5000,"width":2480,"height":1560,"label":"Session Notes"},
+		{"id":"e120653a82edefd5","type":"group","x":-1805,"y":-4960,"width":2397,"height":801,"label":"Players"},
+		{"id":"12a6880ec9815e02","type":"file","file":"Campaigns/Echos Of Time Campaign/Player Specific/Scarlet/Scarlet Session Notes.md","x":-360,"y":-4927,"width":464,"height":365},
+		{"id":"33f3621c6372f356","type":"file","file":"Campaigns/Echos Of Time Campaign/Player Specific/Darrow/Darrow Session Notes.md","x":-1794,"y":-4927,"width":460,"height":365},
+		{"id":"6a0c9aa68aca9a25","type":"file","file":"Campaigns/Echos Of Time Campaign/Session Plans/Session 3 plan.md","x":-1320,"y":-4538,"width":710,"height":1000},
+		{"id":"de26aa4d80c39220","type":"file","file":"Campaigns/Echos Of Time Campaign/Session Notes/Session 3.md","x":-603,"y":-4538,"width":707,"height":1000},
+		{"id":"c0f1dab7337e3c09","type":"file","file":"Campaigns/Echos Of Time Campaign/Player Specific/Valith Egala/Valith Session Notes.md","x":-1794,"y":-4538,"width":460,"height":365},
+		{"id":"0196a8c3af53d1e6","type":"file","file":"Campaigns/Echos Of Time Campaign/Player Specific/Valentine/Valentine Session Notes.md","x":-840,"y":-4927,"width":460,"height":365},
+		{"id":"852d3c8d6dba497f","type":"file","file":"Campaigns/Echos Of Time Campaign/Player Specific/Twig/Twig Session Notes.md","x":122,"y":-4927,"width":460,"height":365},
+		{"id":"0fcf2a99de2d8010","type":"file","file":"Campaigns/Echos Of Time Campaign/Player Specific/Naula/Naula Session Notes.md","x":122,"y":-4538,"width":460,"height":365},
+		{"id":"d13536205fd76b1b","type":"file","file":"Campaigns/Echos Of Time Campaign/Player Specific/Stella/Stella Session Notes.md","x":-1316,"y":-4927,"width":460,"height":365}
+	],
+	"edges":[]
+}
