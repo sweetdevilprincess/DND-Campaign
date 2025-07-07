@@ -1,0 +1,6 @@
+---
+tags:
+  - Deities
+---
+
+[[Glimmering Peaks]]
