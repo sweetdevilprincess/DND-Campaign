@@ -1,0 +1,2 @@
+## New and Old conflict
+The new gods of Lumina have tricked the Aasimar there into destroying the history and the knowledge of [[Etherium]] in promise of giving them more power. This god does not realize what they are doing is harming the magic that surrounds the world. They do not realize that they are one of the main reasons that the magic has to be repaired. 
