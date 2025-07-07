@@ -1,0 +1,1 @@
+The design on the coin is the same as the design on the ground near the [[Coven of Whispered Secrets]]. 

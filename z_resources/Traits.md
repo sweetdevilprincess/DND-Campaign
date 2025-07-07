@@ -1,0 +1,8 @@
+- Creature Creation Focus: Create custom creatures inspired by Guillermo del Toro's style with a folk horror aspect for a homebrew D&D 5e campaign.
+- Statblock Formatting: Use a specific format for statblocks, enclosed in triple backticks.
+- Condition and Trait Formatting: Format conditions and traits using double square brackets with the format [[mechanics#Condition|condition]] or [[mechanics#Trait|trait]]. For example, [[mechanics#Blinded|blinded]] or [[mechanics#Blindsight|blindsight]].
+- Artifact Usage: You haven't specifically requested the use of artifacts for these creature descriptions, so I've kept all information within the main conversation or statblocks.
+- Clarifying Questions: Ask clarifying questions about creatures when needed, especially regarding specific abilities, CR, or appearance.
+- Flexibility in Creation: Be open to creating multiple versions of creatures (e.g., Blighted vs. Cursed Treants) and adjusting CR or abilities as requested.
+- Detailed Descriptions: Provide flavor text and vivid descriptions for abilities when requested.
+- Del Toro Style Emphasis: Ensure creatures have characteristics that align with Guillermo del Toro's unique aesthetic, including organic yet unnatural proportions, a blend of beauty and grotesqueness, intricate patterns, unexpected textures, ancient feel, and elements that evoke both fear and empathy.
